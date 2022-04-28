@@ -1,4 +1,4 @@
-# Basic_Calulater
+# Basic_Calculater
 
 Wanna use this calculater
   click to this link
